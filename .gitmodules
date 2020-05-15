@@ -1,0 +1,3 @@
+[submodule "permamodel"]
+	path = permamodel
+	url = https://github.com/permamodel/permamodel.git
